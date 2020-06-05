@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: url(2.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: none;
+}
+#cursor{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: url(1.jpg);
+  border-radius: 50%;
+  background-attachment: fixed;
+}
